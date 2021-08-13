@@ -1,0 +1,17 @@
+body {
+    background-image: url("field\ of\ olymics.png");
+    background-position: center;
+    background-size: cover;
+}
+#draw {
+    background-color: aliceblue;
+    border: ridge 5px;
+}
+h1 {
+    font-family: sans-serif;
+    font-size: 50px;
+    color: whitesmoke;
+}
+span {
+    color: bisque;
+}
